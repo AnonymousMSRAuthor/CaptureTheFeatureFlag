@@ -20,4 +20,4 @@ The file [featureflags.csv](https://github.com/AnonymousMSRAuthor/CaptureTheFeat
 
 The archive [resources.zip](https://github.com/AnonymousMSRAuthor/CaptureTheFeatureFlag/blob/master/resources.zip) contains all feature flagging commits for all 100 projects.
 
-The archive [resources.zip](https://github.com/AnonymousMSRAuthor/CaptureTheFeatureFlag/blob/master/results.zip) contains some visualizations of the feature flagging histories of the 100 projects. 
+The archive [results.zip](https://github.com/AnonymousMSRAuthor/CaptureTheFeatureFlag/blob/master/results.zip) contains some visualizations of the feature flagging histories of the 100 projects. 
