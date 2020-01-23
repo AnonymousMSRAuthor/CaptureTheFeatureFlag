@@ -1,5 +1,7 @@
 # CaptureTheFeatureFlag
 
+The script for identifyign feature flagging projects can be viewd here: [Analysis.ipynb](https://github.com/AnonymousMSRAuthor/CaptureTheFeatureFlag/blob/master/Commits%20Analysis.ipynb)
+
 The file [candidate_projects.csv](https://github.com/AnonymousMSRAuthor/CaptureTheFeatureFlag/blob/master/candidate_projects.csv) contains slugs of candidate feature flagging projects after cleaning and filtering.
 
 The file [feature_flag_projects.csv](https://github.com/AnonymousMSRAuthor/CaptureTheFeatureFlag/blob/master/feature_flag_projects.csv) contains list of feature flkagging projects that we manually confirmed.
