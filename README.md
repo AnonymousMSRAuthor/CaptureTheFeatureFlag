@@ -13,3 +13,7 @@ The file [likely_projects.csv](https://github.com/AnonymousMSRAuthor/CaptureTheF
 The file [projects.json](https://github.com/AnonymousMSRAuthor/CaptureTheFeatureFlag/blob/master/projects.json) contains the pattern and file paths for the 100 classified projects used to collect the history of all feature flags. 
 
 The file [featureflags.csv](https://github.com/AnonymousMSRAuthor/CaptureTheFeatureFlag/blob/master/featureflags.csv) contains data on all feature flags for all 100 open source feature flagging projects.
+
+The archive [resources.zip](https://github.com/AnonymousMSRAuthor/CaptureTheFeatureFlag/blob/master/resources.zip) contains all feature flagging commits for all 100 projects.
+
+The archive [resources.zip](https://github.com/AnonymousMSRAuthor/CaptureTheFeatureFlag/blob/master/results.zip) contains some visualizations of the feature flagging histories of the 100 projects. 
