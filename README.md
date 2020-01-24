@@ -2,7 +2,7 @@
 This repository contains sublemental material for the MSR 2020 paper submission.
 
 ## Chapter 3 (Capturing Feature Flags): 
-The script for identifyign feature flagging projects can be viewd here: [Analysis.ipynb](https://github.com/AnonymousMSRAuthor/CaptureTheFeatureFlag/blob/master/Commits%20Analysis.ipynb)
+The script for identifyign feature flagging projects can be viewd here: [Commit Analysis.ipynb](https://github.com/AnonymousMSRAuthor/CaptureTheFeatureFlag/blob/master/Commits%20Analysis.ipynb)
 
 The file [candidate_projects.csv](https://github.com/AnonymousMSRAuthor/CaptureTheFeatureFlag/blob/master/candidate_projects.csv) contains slugs of candidate feature flagging projects after cleaning and filtering.
 
